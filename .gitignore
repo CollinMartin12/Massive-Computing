@@ -1,0 +1,32 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+__pycache__/
+
+# Medical image data files (too large for git)
+*.nii.gz
+*.nii
+
+# Python
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files
+*.html
+*.pdf
+
